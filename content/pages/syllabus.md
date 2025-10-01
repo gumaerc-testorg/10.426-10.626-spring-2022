@@ -11,7 +11,7 @@ Lectures: 1.5 hours / session, 2 sessions / week
 
 ## Prerequisites
 
-[*10.302 Transport Processes*](https://ocw.mit.edu/courses/10-302-transport-processes-fall-2004/)
+{{% resource_link "c48f255c-9fee-4ed7-83b7-95e69ad1f7ab" "*10.302 Transport Processes*" %}}
 
 ## Course Description
 
@@ -34,10 +34,10 @@ Collaboration policy: You are encouraged to work on problem sets with other stud
 
 Required readings will include selected lecture notes from previous semesters of the course, as well as research articles, assigned throughout the semester and chapters from the following textbooks:
 
-Previous [10.426/10.626 lecture notes](https://ocw.mit.edu/courses/10-626-electrochemical-energy-systems-spring-2014/pages/lecture-notes/)
+Previous {{% resource_link "1ebd4ff6-70a5-437e-96d4-958e84e4be19" "10.426/10.626 lecture notes" %}}
 
-Newman, John, and Karen E. Thomas-Alyea. *Electrochemical Systems*. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with [Google Books](http://books.google.com/books?id=vArZu0HM-xYC&pg=PAfrontcover)\]
+Newman, John, and Karen E. Thomas-Alyea. *Electrochemical Systems*. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with {{% resource_link "8ec17eeb-c7df-4e73-bb3b-493dedef1175" "Google Books" %}}\]
 
 Bard, Allen J., and Larry R. Faulkner. *Electrochemical Methods: Fundamentals and Applications*. 2nd ed. Wiley, 2000. ISBN: 9780471043720.
 
-O’ Hayre, Ryan, Suk-Won Cha, et al. *Fuel Cell Fundamentals*. 2nd ed. Wiley, 2009. ISBN: 9780470258439. \[Preview with [Google Books](https://www.google.com/books/edition/Fuel_Cell_Fundamentals/O2JYCwAAQBAJ?hl=en&gbpv=1&pg=PR1&printsec=frontcover)\]
+O’ Hayre, Ryan, Suk-Won Cha, et al. *Fuel Cell Fundamentals*. 2nd ed. Wiley, 2009. ISBN: 9780470258439. \[Preview with {{% resource_link "f4f92dc7-155d-49cd-8828-bcd5db53d3dc" "Google Books" %}}\]
